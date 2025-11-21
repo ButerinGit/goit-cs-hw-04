@@ -22,6 +22,6 @@
 - Обидві версії повертають словник:
   ```python
   {
-      "слово": ["data/file1.txt", "data/file2.txt", ...],
+      "слово": ["data/test1.txt", "data/test2.txt", ...],
       ...
   }
